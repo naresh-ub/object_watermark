@@ -1,0 +1,1 @@
+python latent_wm_pretrain.py --output_dir debug_output --epochs 40 --dataset /home/csgrad/devulapa/watermark_final/data/finetune_ldm_train
