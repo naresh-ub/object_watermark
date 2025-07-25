@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ¹ University at Buffalo, SUNY &bull; ² Adobe Research
+  ¹University at Buffalo, SUNY &bull; ²Adobe Research
 </p>
 
 ## Abstract
